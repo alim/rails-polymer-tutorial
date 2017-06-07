@@ -25,7 +25,7 @@ Components to it. The versions with corresponding tutorial steps
 will be stored in subdirectories of this repository. The tutorial
 steps include:
 
-1. [Creation of a sample application and installing Polymer](step-1/README.md)
+1. [Creation of a sample application and installing Polymer](step-1)
 1. Addition of simple layout for header and navigation
 1. Addition of form elements for handling input
 1. Addition of an AJAX element
